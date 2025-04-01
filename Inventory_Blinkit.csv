@@ -1,0 +1,1001 @@
+product_id,category,product_name,price,product_price,date,stock_received,damaged_stock
+153019,"Fruits & Vegetables",Onions,947.95,947.95,Mar-23,4,1
+848226,"Fruits & Vegetables",Tomatoes,209.59,209.59,Mar-23,4,1
+965755,"Fruits & Vegetables",Bananas,532.57,532.57,Mar-23,1,0
+39154,"Fruits & Vegetables",Mangoes,946.86,946.86,Mar-23,4,0
+34186,"Fruits & Vegetables",Mangoes,925.65,925.65,Mar-23,3,1
+478531,"Fruits & Vegetables",Carrots,825.46,825.46,Mar-23,4,1
+812607,"Fruits & Vegetables",Potatoes,416.65,416.65,Mar-23,4,0
+818990,"Fruits & Vegetables",Tomatoes,163.55,163.55,Mar-23,4,0
+284460,"Fruits & Vegetables",Potatoes,505.95,505.95,Mar-23,4,0
+654297,"Fruits & Vegetables",Potatoes,13.25,13.25,Mar-23,4,1
+376447,"Dairy & Breakfast",Butter,724.84,724.84,Mar-23,4,0
+888807,"Dairy & Breakfast",Bread,230.58,230.58,Mar-23,1,0
+41853,"Dairy & Breakfast",Curd,910.44,910.44,Mar-23,4,0
+257719,"Dairy & Breakfast",Eggs,281.73,281.73,Mar-23,4,0
+799952,"Dairy & Breakfast",Cheese,922.64,922.64,Mar-23,3,0
+833557,"Dairy & Breakfast",Cereal,422.87,422.87,Mar-23,4,0
+324809,"Dairy & Breakfast",Bread,608,608,Mar-23,1,0
+592784,"Snacks & Munchies",Biscuits,280.35,280.35,Mar-23,3,0
+487065,"Snacks & Munchies",Chips,374.68,374.68,Mar-23,4,0
+734789,"Snacks & Munchies",Popcorn,395.82,395.82,Mar-23,4,0
+654623,"Snacks & Munchies",Chips,422.14,422.14,Mar-23,4,0
+990993,"Snacks & Munchies",Chocolates,263.7,263.7,Mar-23,1,0
+762527,"Snacks & Munchies",Biscuits,690.08,690.08,Mar-23,4,0
+602241,"Snacks & Munchies",Nuts,976.55,976.55,Mar-23,1,1
+491521,"Snacks & Munchies",Nuts,556.35,556.35,Mar-23,3,0
+832348,"Snacks & Munchies",Biscuits,831.43,831.43,Mar-23,3,1
+567671,"Snacks & Munchies",Biscuits,418.48,418.48,Mar-23,4,0
+540618,"Snacks & Munchies",Popcorn,317.05,317.05,Mar-23,3,0
+687218,"Cold Drinks & Juices","Mango Drink",317.82,317.82,Mar-23,3,1
+328457,"Cold Drinks & Juices","Mango Drink",858.57,858.57,Mar-23,3,0
+300159,"Cold Drinks & Juices",Cola,44.35,44.35,Mar-23,3,1
+378676,"Cold Drinks & Juices","Orange Juice",881.42,881.42,Mar-23,3,0
+532965,"Instant & Frozen Food","Frozen Pizza",307.23,307.23,Mar-23,4,0
+305754,"Instant & Frozen Food","Frozen Vegetables",979.99,979.99,Mar-23,1,0
+611575,"Instant & Frozen Food","Frozen Pizza",482.06,482.06,Mar-23,3,0
+621677,"Instant & Frozen Food","Frozen Biryani",317.8,317.8,Mar-23,3,0
+306177,"Instant & Frozen Food","Frozen Biryani",769.24,769.24,Mar-23,4,0
+901144,"Grocery & Staples",Sugar,340.36,340.36,Mar-23,3,0
+53833,"Grocery & Staples",Rice,134.69,134.69,Mar-23,4,0
+490602,"Grocery & Staples",Sugar,549.47,549.47,Mar-23,4,0
+287070,"Grocery & Staples","Wheat Flour",443.17,443.17,Mar-23,1,0
+317242,"Grocery & Staples",Pulses,198.15,198.15,Mar-23,3,0
+461804,"Grocery & Staples",Sugar,310.69,310.69,Mar-23,3,0
+820541,"Household Care","Toilet Cleaner",576.22,576.22,Mar-23,3,0
+91670,"Household Care","Dish Soap",439.24,439.24,Mar-23,3,1
+144124,"Household Care",Detergent,162.67,162.67,Mar-23,3,1
+677542,"Household Care","Toilet Cleaner",212.61,212.61,Mar-23,1,0
+604184,"Household Care","Toilet Cleaner",397.55,397.55,Mar-23,1,0
+968887,"Household Care","Dish Soap",40.7,40.7,Mar-23,4,0
+700048,"Household Care","Dish Soap",141.28,141.28,Mar-23,3,1
+473647,"Personal Care",Toothpaste,43.05,43.05,Mar-23,3,0
+753354,"Personal Care",Shampoo,423.56,423.56,Mar-23,3,0
+490939,"Personal Care",Lotion,80.25,80.25,Mar-23,4,0
+970529,"Baby Care",Diapers,827.44,827.44,Mar-23,3,1
+433521,"Baby Care",Diapers,321.33,321.33,Mar-23,3,1
+927651,"Baby Care","Baby Wipes",426.72,426.72,Mar-23,3,0
+942001,"Pet Care","Cat Food",671.55,671.55,Mar-23,3,1
+585299,"Pet Care","Pet Treats",799.46,799.46,Mar-23,3,0
+52729,"Pet Care","Cat Food",316.02,316.02,Mar-23,4,0
+661577,"Pet Care","Cat Food",720.95,720.95,Mar-23,3,0
+951463,"Pet Care","Pet Treats",787.4,787.4,Mar-23,4,0
+243235,"Pet Care","Cat Food",109.03,109.03,Mar-23,3,1
+564692,"Pet Care","Cat Food",215.65,215.65,Mar-23,2,0
+131748,"Pet Care","Dog Food",81.35,81.35,Mar-23,2,0
+913428,"Pet Care","Pet Treats",392.22,392.22,Mar-23,2,0
+726958,"Pet Care","Cat Food",887.48,887.48,Mar-23,3,0
+425341,"Pet Care","Pet Treats",486.28,486.28,Mar-23,1,0
+677169,Pharmacy,"Cough Syrup",261.03,261.03,Mar-23,2,0
+26060,Pharmacy,Vitamins,342.94,342.94,Mar-23,3,0
+237083,Pharmacy,"Cough Syrup",577.13,577.13,Mar-23,2,0
+669378,"Fruits & Vegetables",Potatoes,212.14,212.14,Mar-23,3,0
+890623,"Fruits & Vegetables",Onions,354.52,354.52,Mar-23,2,0
+818990,"Fruits & Vegetables",Tomatoes,163.55,163.55,Mar-23,1,0
+349294,"Fruits & Vegetables",Onions,934.75,934.75,Mar-23,3,1
+552883,"Fruits & Vegetables",Potatoes,888.16,888.16,Mar-23,2,0
+555121,"Fruits & Vegetables",Carrots,354.91,354.91,Mar-23,3,0
+89084,"Dairy & Breakfast",Milk,598.83,598.83,Mar-23,2,0
+329351,"Dairy & Breakfast",Cheese,310.87,310.87,Mar-23,3,0
+324809,"Dairy & Breakfast",Bread,608,608,Mar-23,2,0
+337168,"Dairy & Breakfast",Eggs,545.49,545.49,Mar-23,2,0
+659290,"Dairy & Breakfast",Cheese,319.34,319.34,Mar-23,3,0
+883013,"Dairy & Breakfast",Eggs,989.88,989.88,Mar-23,3,0
+455083,"Dairy & Breakfast",Butter,959.01,959.01,Mar-23,2,0
+949818,"Snacks & Munchies",Biscuits,483.05,483.05,Mar-23,3,0
+361361,"Snacks & Munchies",Biscuits,826.21,826.21,Mar-23,3,0
+378230,"Snacks & Munchies",Nuts,166.42,166.42,Mar-23,3,0
+762527,"Snacks & Munchies",Biscuits,690.08,690.08,Mar-23,1,0
+587420,"Snacks & Munchies",Cookies,357.42,357.42,Mar-23,2,0
+491521,"Snacks & Munchies",Nuts,556.35,556.35,Mar-23,1,0
+914071,"Snacks & Munchies",Chips,296.94,296.94,Mar-23,2,0
+567671,"Snacks & Munchies",Biscuits,418.48,418.48,Mar-23,3,0
+378287,"Cold Drinks & Juices",Lemonade,332.84,332.84,Mar-23,2,0
+118820,"Cold Drinks & Juices","Iced Tea",12.32,12.32,Mar-23,3,0
+667163,"Cold Drinks & Juices","Orange Juice",441.2,441.2,Mar-23,2,0
+228286,"Cold Drinks & Juices",Cola,179.08,179.08,Mar-23,1,0
+365132,"Instant & Frozen Food","Instant Noodles",229.38,229.38,Mar-23,3,0
+689769,"Instant & Frozen Food","Frozen Vegetables",46.62,46.62,Mar-23,2,0
+305754,"Instant & Frozen Food","Frozen Vegetables",979.99,979.99,Mar-23,3,0
+623234,"Instant & Frozen Food","Frozen Biryani",329.79,329.79,Mar-23,3,0
+272170,"Instant & Frozen Food","Ice Cream",140.8,140.8,Mar-23,3,0
+487931,"Grocery & Staples",Sugar,709.08,709.08,Mar-23,2,0
+901144,"Grocery & Staples",Sugar,340.36,340.36,Mar-23,2,0
+945635,"Grocery & Staples",Pulses,778.9,778.9,Mar-23,3,0
+490602,"Grocery & Staples",Sugar,549.47,549.47,Mar-23,3,0
+131136,"Grocery & Staples",Salt,37.8,37.8,Mar-23,2,0
+993331,"Grocery & Staples",Pulses,102.44,102.44,Mar-23,1,0
+807452,"Grocery & Staples",Pulses,144.19,144.19,Mar-23,2,0
+36412,"Household Care","Dish Soap",397.68,397.68,Mar-23,2,0
+94225,"Household Care","Toilet Cleaner",77.11,77.11,Mar-23,2,0
+435929,"Household Care","Toilet Cleaner",856.89,856.89,Mar-23,2,0
+552496,"Household Care","Dish Soap",508,508,Mar-23,2,0
+144124,"Household Care",Detergent,162.67,162.67,Mar-23,3,0
+697683,"Household Care","Toilet Cleaner",123.74,123.74,Mar-23,3,0
+894539,"Household Care","Dish Soap",445.48,445.48,Mar-23,3,0
+365133,"Household Care","Dish Soap",915.45,915.45,Mar-23,2,0
+767398,"Household Care","Dish Soap",22.14,22.14,Mar-23,3,0
+473647,"Personal Care",Toothpaste,43.05,43.05,Mar-23,1,0
+647462,"Personal Care",Lotion,326.42,326.42,Mar-23,3,0
+803607,"Personal Care",Soap,949.73,949.73,Mar-23,3,0
+859361,"Personal Care",Shampoo,432.39,432.39,Mar-23,3,0
+600767,"Personal Care",Toothpaste,722.42,722.42,Mar-23,2,0
+784827,"Baby Care","Baby Wipes",274.25,274.25,Mar-23,3,0
+6405,"Baby Care","Baby Food",236.51,236.51,Mar-23,3,0
+820973,"Baby Care","Baby Wipes",114.52,114.52,Mar-23,3,0
+367391,"Baby Care","Baby Wipes",939.55,939.55,Mar-23,3,0
+930284,"Baby Care","Baby Food",189.47,189.47,Mar-23,3,0
+82484,"Baby Care","Baby Food",914.88,914.88,Mar-23,3,0
+707935,"Pet Care","Cat Food",820.9,820.9,Mar-23,3,0
+52729,"Pet Care","Cat Food",316.02,316.02,Mar-23,3,0
+661577,"Pet Care","Cat Food",720.95,720.95,Mar-23,3,0
+256783,"Pet Care","Pet Treats",906.54,906.54,Mar-23,3,0
+537274,"Pet Care","Pet Treats",702.71,702.71,Mar-23,1,0
+757274,"Pet Care","Pet Treats",98.32,98.32,Mar-23,3,0
+613942,"Pet Care","Pet Treats",545,545,Mar-23,1,0
+723678,"Pet Care","Dog Food",675.46,675.46,Mar-23,1,0
+677169,Pharmacy,"Cough Syrup",261.03,261.03,Mar-23,3,0
+706112,Pharmacy,Vitamins,478.79,478.79,Mar-23,3,0
+557908,Pharmacy,Vitamins,942.37,942.37,Mar-23,2,0
+837480,Pharmacy,"Cough Syrup",217.4,217.4,Mar-23,2,0
+566052,Pharmacy,"Pain Reliever",87.3,87.3,Mar-23,2,0
+137909,Pharmacy,"Cough Syrup",864.3,864.3,Mar-23,2,0
+264803,Pharmacy,Vitamins,995.98,995.98,Mar-23,3,0
+851978,Pharmacy,Vitamins,715.72,715.72,Mar-23,3,0
+123983,Pharmacy,"Cough Syrup",785.67,785.67,Mar-23,3,0
+679284,Pharmacy,"Cough Syrup",877.89,877.89,Mar-23,3,0
+240179,Pharmacy,"Cough Syrup",90.56,90.56,Mar-23,3,0
+673058,Pharmacy,"Cough Syrup",765.76,765.76,Mar-23,3,0
+516376,"Fruits & Vegetables",Onions,877.43,877.43,Mar-23,1,0
+478531,"Fruits & Vegetables",Carrots,825.46,825.46,Mar-23,3,0
+812607,"Fruits & Vegetables",Potatoes,416.65,416.65,Mar-23,2,0
+871592,"Fruits & Vegetables",Carrots,870.29,870.29,Mar-23,2,0
+70969,"Fruits & Vegetables",Carrots,631.7,631.7,Mar-23,3,0
+397973,"Fruits & Vegetables",Bananas,728.73,728.73,Mar-23,3,0
+462526,"Dairy & Breakfast",Curd,449.97,449.97,Mar-23,2,0
+217710,"Dairy & Breakfast",Eggs,58.59,58.59,Mar-23,2,0
+89084,"Dairy & Breakfast",Milk,598.83,598.83,Mar-23,3,0
+888807,"Dairy & Breakfast",Bread,230.58,230.58,Mar-23,2,0
+891833,"Dairy & Breakfast",Curd,493.19,493.19,Mar-23,1,0
+500739,"Dairy & Breakfast",Bread,359.98,359.98,Mar-23,2,0
+798639,"Dairy & Breakfast",Eggs,211.25,211.25,Mar-23,3,0
+329351,"Dairy & Breakfast",Cheese,310.87,310.87,Mar-23,3,0
+883013,"Dairy & Breakfast",Eggs,989.88,989.88,Mar-23,3,0
+592784,"Snacks & Munchies",Biscuits,280.35,280.35,Mar-23,2,0
+734789,"Snacks & Munchies",Popcorn,395.82,395.82,Mar-23,2,0
+949818,"Snacks & Munchies",Biscuits,483.05,483.05,Mar-23,1,0
+690565,"Snacks & Munchies",Cookies,951.27,951.27,Mar-23,1,0
+378230,"Snacks & Munchies",Nuts,166.42,166.42,Mar-23,2,0
+658389,"Snacks & Munchies",Popcorn,152.55,152.55,Mar-23,3,0
+481843,"Snacks & Munchies",Chocolates,297.68,297.68,Mar-23,3,0
+118820,"Cold Drinks & Juices","Iced Tea",12.32,12.32,Mar-23,2,0
+712003,"Cold Drinks & Juices",Cola,671.68,671.68,Mar-23,3,0
+969851,"Instant & Frozen Food","Frozen Vegetables",340.66,340.66,Mar-23,2,0
+954722,"Instant & Frozen Food","Ice Cream",616.45,616.45,Mar-23,3,0
+925482,"Instant & Frozen Food","Frozen Biryani",475.04,475.04,Mar-23,3,0
+306177,"Instant & Frozen Food","Frozen Biryani",769.24,769.24,Mar-23,1,0
+272170,"Instant & Frozen Food","Ice Cream",140.8,140.8,Mar-23,3,0
+53833,"Grocery & Staples",Rice,134.69,134.69,Mar-23,3,0
+903336,"Grocery & Staples",Pulses,551.88,551.88,Mar-23,1,0
+131136,"Grocery & Staples",Salt,37.8,37.8,Mar-23,3,0
+807452,"Grocery & Staples",Pulses,144.19,144.19,Mar-23,2,0
+461804,"Grocery & Staples",Sugar,310.69,310.69,Mar-23,2,0
+704868,"Household Care",Detergent,193.46,193.46,Mar-23,2,0
+18035,"Household Care","Dish Soap",968.94,968.94,Mar-23,2,0
+336847,"Household Care","Toilet Cleaner",936.98,936.98,Mar-23,3,0
+144124,"Household Care",Detergent,162.67,162.67,Mar-23,2,0
+677542,"Household Care","Toilet Cleaner",212.61,212.61,Mar-23,3,0
+604184,"Household Care","Toilet Cleaner",397.55,397.55,Mar-23,3,0
+697683,"Household Care","Toilet Cleaner",123.74,123.74,Mar-23,1,0
+739534,"Household Care","Toilet Cleaner",994.56,994.56,Mar-23,2,0
+365133,"Household Care","Dish Soap",915.45,915.45,Mar-23,3,0
+133542,"Household Care",Detergent,68.49,68.49,Mar-23,1,0
+9436,"Personal Care",Toothpaste,88.43,88.43,Mar-23,3,0
+112390,"Personal Care",Toothpaste,877.98,877.98,Mar-23,3,0
+647462,"Personal Care",Lotion,326.42,326.42,Mar-23,3,0
+34200,"Personal Care",Lotion,319.8,319.8,Mar-23,3,0
+684939,"Personal Care",Lotion,727.95,727.95,Mar-23,2,0
+219598,"Personal Care",Shampoo,367.08,367.08,Mar-23,2,0
+140154,"Personal Care",Shampoo,171.2,171.2,Mar-23,3,0
+449106,"Personal Care",Soap,48.55,48.55,Mar-23,3,0
+615545,"Personal Care",Soap,448.16,448.16,Mar-23,3,0
+6405,"Baby Care","Baby Food",236.51,236.51,Mar-23,3,0
+853932,"Baby Care","Baby Wipes",941.19,941.19,Mar-23,3,0
+51036,"Baby Care","Baby Food",931.61,931.61,Mar-23,2,0
+953175,"Baby Care","Baby Food",225.21,225.21,Mar-23,3,0
+707935,"Pet Care","Cat Food",820.9,820.9,Mar-23,3,0
+564692,"Pet Care","Cat Food",215.65,215.65,Mar-23,3,0
+537274,"Pet Care","Pet Treats",702.71,702.71,Mar-23,3,0
+525531,"Pet Care","Dog Food",831.1,831.1,Mar-23,2,0
+913428,"Pet Care","Pet Treats",392.22,392.22,Mar-23,3,0
+757274,"Pet Care","Pet Treats",98.32,98.32,Mar-23,1,0
+677169,Pharmacy,"Cough Syrup",261.03,261.03,Mar-23,1,0
+56589,Pharmacy,Vitamins,517.77,517.77,Mar-23,2,0
+33797,Pharmacy,"Pain Reliever",888.12,888.12,Mar-23,2,0
+123983,Pharmacy,"Cough Syrup",785.67,785.67,Mar-23,2,0
+237083,Pharmacy,"Cough Syrup",577.13,577.13,Mar-23,1,0
+444361,Pharmacy,"Pain Reliever",822.63,822.63,Mar-23,2,0
+679284,Pharmacy,"Cough Syrup",877.89,877.89,Mar-23,2,0
+240179,Pharmacy,"Cough Syrup",90.56,90.56,Mar-23,1,0
+114414,Pharmacy,Vitamins,832.06,832.06,Mar-23,1,0
+153019,"Fruits & Vegetables",Onions,947.95,947.95,Mar-23,1,0
+11422,"Fruits & Vegetables",Potatoes,127.16,127.16,Mar-23,4,0
+848226,"Fruits & Vegetables",Tomatoes,209.59,209.59,Mar-23,4,0
+222892,"Fruits & Vegetables",Tomatoes,869.22,869.22,Mar-23,4,0
+516376,"Fruits & Vegetables",Onions,877.43,877.43,Mar-23,4,0
+39154,"Fruits & Vegetables",Mangoes,946.86,946.86,Mar-23,1,0
+812607,"Fruits & Vegetables",Potatoes,416.65,416.65,Mar-23,1,0
+14145,"Fruits & Vegetables",Spinach,630.84,630.84,Mar-23,1,0
+70969,"Fruits & Vegetables",Carrots,631.7,631.7,Mar-23,4,0
+89084,"Dairy & Breakfast",Milk,598.83,598.83,Mar-23,1,0
+136533,"Dairy & Breakfast",Eggs,826.21,826.21,Mar-23,1,0
+257719,"Dairy & Breakfast",Eggs,281.73,281.73,Mar-23,1,0
+500633,"Dairy & Breakfast",Cereal,154.5,154.5,Mar-23,4,0
+337168,"Dairy & Breakfast",Eggs,545.49,545.49,Mar-23,4,0
+578097,"Snacks & Munchies",Nuts,267.61,267.61,Mar-23,1,0
+487065,"Snacks & Munchies",Chips,374.68,374.68,Mar-23,1,0
+291238,"Snacks & Munchies",Chocolates,746.03,746.03,Mar-23,4,0
+654623,"Snacks & Munchies",Chips,422.14,422.14,Mar-23,1,0
+313754,"Snacks & Munchies",Biscuits,136.6,136.6,Mar-23,4,0
+658389,"Snacks & Munchies",Popcorn,152.55,152.55,Mar-23,4,0
+378287,"Cold Drinks & Juices",Lemonade,332.84,332.84,Mar-23,4,0
+712003,"Cold Drinks & Juices",Cola,671.68,671.68,Mar-23,4,0
+513199,"Cold Drinks & Juices",Cola,422.23,422.23,Mar-23,1,0
+962054,"Cold Drinks & Juices","Orange Juice",16.86,16.86,Mar-23,1,0
+378676,"Cold Drinks & Juices","Orange Juice",881.42,881.42,Mar-23,1,0
+365132,"Instant & Frozen Food","Instant Noodles",229.38,229.38,Mar-23,1,0
+491314,"Instant & Frozen Food","Ice Cream",973.44,973.44,Mar-23,4,0
+954722,"Instant & Frozen Food","Ice Cream",616.45,616.45,Mar-23,4,0
+652118,"Instant & Frozen Food","Frozen Biryani",22.04,22.04,Mar-23,1,0
+876139,"Grocery & Staples",Pulses,415.75,415.75,Mar-23,1,0
+120532,"Grocery & Staples","Wheat Flour",697.53,697.53,Mar-23,1,0
+760684,"Grocery & Staples",Rice,71.6,71.6,Mar-23,1,0
+490602,"Grocery & Staples",Sugar,549.47,549.47,Mar-23,1,0
+644847,"Grocery & Staples",Salt,622.81,622.81,Mar-23,4,0
+327290,"Grocery & Staples",Sugar,862.28,862.28,Mar-23,1,0
+993331,"Grocery & Staples",Pulses,102.44,102.44,Mar-23,1,0
+455755,"Household Care",Detergent,44.09,44.09,Mar-23,1,0
+677542,"Household Care","Toilet Cleaner",212.61,212.61,Mar-23,1,0
+448752,"Household Care","Toilet Cleaner",160.07,160.07,Mar-23,1,0
+863930,"Personal Care",Shampoo,242.57,242.57,Mar-23,1,0
+9436,"Personal Care",Toothpaste,88.43,88.43,Mar-23,1,0
+803607,"Personal Care",Soap,949.73,949.73,Mar-23,4,0
+684939,"Personal Care",Lotion,727.95,727.95,Mar-23,1,0
+140154,"Personal Care",Shampoo,171.2,171.2,Mar-23,1,0
+120385,"Pet Care","Pet Treats",597.91,597.91,Mar-23,1,0
+661577,"Pet Care","Cat Food",720.95,720.95,Mar-23,4,0
+243235,"Pet Care","Cat Food",109.03,109.03,Mar-23,1,0
+186168,"Pet Care","Dog Food",878.8,878.8,Mar-23,4,0
+537274,"Pet Care","Pet Treats",702.71,702.71,Mar-23,4,0
+760828,"Pet Care","Pet Treats",563.45,563.45,Mar-23,1,0
+723678,"Pet Care","Dog Food",675.46,675.46,Mar-23,1,0
+451812,Pharmacy,"Pain Reliever",530.85,530.85,Mar-23,1,0
+274207,Pharmacy,"Cough Syrup",328.51,328.51,Mar-23,4,0
+706112,Pharmacy,Vitamins,478.79,478.79,Mar-23,1,0
+851978,Pharmacy,Vitamins,715.72,715.72,Mar-23,4,0
+992178,Pharmacy,"Pain Reliever",632.43,632.43,Mar-23,1,0
+679284,Pharmacy,"Cough Syrup",877.89,877.89,Mar-23,1,0
+11422,"Fruits & Vegetables",Potatoes,127.16,127.16,Mar-23,4,0
+818990,"Fruits & Vegetables",Tomatoes,163.55,163.55,Mar-23,1,0
+284460,"Fruits & Vegetables",Potatoes,505.95,505.95,Mar-23,1,0
+77308,"Fruits & Vegetables",Onions,223.27,223.27,Mar-23,1,0
+555121,"Fruits & Vegetables",Carrots,354.91,354.91,Mar-23,1,0
+818522,"Dairy & Breakfast",Cheese,96.09,96.09,Mar-23,4,0
+146840,"Dairy & Breakfast",Bread,786.85,786.85,Mar-23,1,0
+891833,"Dairy & Breakfast",Curd,493.19,493.19,Mar-23,1,0
+839170,"Dairy & Breakfast",Curd,481.63,481.63,Mar-23,1,0
+734789,"Snacks & Munchies",Popcorn,395.82,395.82,Mar-23,1,0
+291238,"Snacks & Munchies",Chocolates,746.03,746.03,Mar-23,1,0
+602241,"Snacks & Munchies",Nuts,976.55,976.55,Mar-23,4,0
+681063,"Cold Drinks & Juices","Mango Drink",321.28,321.28,Mar-23,1,0
+689769,"Instant & Frozen Food","Frozen Vegetables",46.62,46.62,Mar-23,1,0
+305754,"Instant & Frozen Food","Frozen Vegetables",979.99,979.99,Mar-23,4,0
+33955,"Instant & Frozen Food","Frozen Pizza",186.08,186.08,Mar-23,1,0
+606256,"Instant & Frozen Food","Frozen Biryani",369.28,369.28,Mar-23,1,0
+611575,"Instant & Frozen Food","Frozen Pizza",482.06,482.06,Mar-23,4,0
+53833,"Grocery & Staples",Rice,134.69,134.69,Mar-23,1,0
+876139,"Grocery & Staples",Pulses,415.75,415.75,Mar-23,1,0
+903336,"Grocery & Staples",Pulses,551.88,551.88,Mar-23,4,0
+120532,"Grocery & Staples","Wheat Flour",697.53,697.53,Mar-23,1,0
+945635,"Grocery & Staples",Pulses,778.9,778.9,Mar-23,1,0
+937542,"Grocery & Staples","Wheat Flour",97.04,97.04,Mar-23,1,0
+451933,"Grocery & Staples","Wheat Flour",568.94,568.94,Mar-23,4,0
+94225,"Household Care","Toilet Cleaner",77.11,77.11,Mar-23,1,0
+435929,"Household Care","Toilet Cleaner",856.89,856.89,Mar-23,4,0
+820541,"Household Care","Toilet Cleaner",576.22,576.22,Mar-23,4,0
+747801,"Household Care","Toilet Cleaner",277.76,277.76,Mar-23,1,0
+697683,"Household Care","Toilet Cleaner",123.74,123.74,Mar-23,1,0
+365133,"Household Care","Dish Soap",915.45,915.45,Mar-23,1,0
+753354,"Personal Care",Shampoo,423.56,423.56,Mar-23,1,0
+140489,"Personal Care",Soap,650.2,650.2,Mar-23,1,0
+256051,"Personal Care",Lotion,400.92,400.92,Mar-23,2,0
+784827,"Baby Care","Baby Wipes",274.25,274.25,Mar-23,2,0
+970529,"Baby Care",Diapers,827.44,827.44,Mar-23,2,0
+440875,"Baby Care","Baby Wipes",275.03,275.03,Mar-23,1,0
+942001,"Pet Care","Cat Food",671.55,671.55,Mar-23,1,0
+256783,"Pet Care","Pet Treats",906.54,906.54,Mar-23,1,0
+186168,"Pet Care","Dog Food",878.8,878.8,Mar-23,1,0
+525531,"Pet Care","Dog Food",831.1,831.1,Mar-23,1,0
+771228,"Pet Care","Pet Treats",83.18,83.18,Mar-23,1,0
+760828,"Pet Care","Pet Treats",563.45,563.45,Mar-23,2,0
+56589,Pharmacy,Vitamins,517.77,517.77,Mar-23,1,0
+222892,"Fruits & Vegetables",Tomatoes,869.22,869.22,Mar-23,1,0
+516376,"Fruits & Vegetables",Onions,877.43,877.43,Mar-23,1,0
+349294,"Fruits & Vegetables",Onions,934.75,934.75,Mar-23,1,0
+847349,"Fruits & Vegetables",Potatoes,781.08,781.08,Mar-23,1,0
+67197,"Dairy & Breakfast",Butter,552.2,552.2,Mar-23,1,0
+880510,"Dairy & Breakfast",Bread,951.43,951.43,Mar-23,1,0
+741341,"Dairy & Breakfast",Eggs,923.84,923.84,Mar-23,2,0
+798639,"Dairy & Breakfast",Eggs,211.25,211.25,Mar-23,2,0
+578097,"Snacks & Munchies",Nuts,267.61,267.61,Mar-23,1,0
+654623,"Snacks & Munchies",Chips,422.14,422.14,Mar-23,1,0
+990993,"Snacks & Munchies",Chocolates,263.7,263.7,Mar-23,2,0
+952168,"Snacks & Munchies",Popcorn,236.95,236.95,Mar-23,2,0
+542300,"Snacks & Munchies",Popcorn,255.35,255.35,Mar-23,1,0
+491521,"Snacks & Munchies",Nuts,556.35,556.35,Mar-23,1,0
+567671,"Snacks & Munchies",Biscuits,418.48,418.48,Mar-23,1,0
+60619,"Cold Drinks & Juices","Iced Tea",726.41,726.41,Mar-23,1,0
+962591,"Cold Drinks & Juices","Orange Juice",130.01,130.01,Mar-23,1,0
+194682,"Cold Drinks & Juices","Iced Tea",912.29,912.29,Mar-23,1,0
+300159,"Cold Drinks & Juices",Cola,44.35,44.35,Mar-23,1,0
+561860,"Cold Drinks & Juices","Orange Juice",874.78,874.78,Mar-23,2,0
+890232,"Cold Drinks & Juices","Mango Drink",432,432,Mar-23,2,0
+689769,"Instant & Frozen Food","Frozen Vegetables",46.62,46.62,Mar-23,2,0
+623234,"Instant & Frozen Food","Frozen Biryani",329.79,329.79,Mar-23,2,0
+131937,"Instant & Frozen Food","Frozen Pizza",287.81,287.81,Mar-23,2,0
+272170,"Instant & Frozen Food","Ice Cream",140.8,140.8,Mar-23,2,0
+937542,"Grocery & Staples","Wheat Flour",97.04,97.04,Mar-23,1,0
+287070,"Grocery & Staples","Wheat Flour",443.17,443.17,Mar-23,1,0
+461804,"Grocery & Staples",Sugar,310.69,310.69,Mar-23,1,0
+36412,"Household Care","Dish Soap",397.68,397.68,Mar-23,1,0
+336847,"Household Care","Toilet Cleaner",936.98,936.98,Mar-23,1,0
+589812,"Household Care",Detergent,163.03,163.03,Mar-23,1,0
+968887,"Household Care","Dish Soap",40.7,40.7,Mar-23,1,0
+739448,"Household Care","Dish Soap",755.66,755.66,Mar-23,1,0
+700048,"Household Care","Dish Soap",141.28,141.28,Mar-23,1,0
+672059,"Personal Care",Toothpaste,672.73,672.73,Mar-23,1,0
+684939,"Personal Care",Lotion,727.95,727.95,Mar-23,2,0
+140154,"Personal Care",Shampoo,171.2,171.2,Mar-23,2,0
+615545,"Personal Care",Soap,448.16,448.16,Mar-23,1,0
+367391,"Baby Care","Baby Wipes",939.55,939.55,Mar-23,1,0
+433521,"Baby Care",Diapers,321.33,321.33,Mar-23,1,0
+432617,"Baby Care","Baby Wipes",863.18,863.18,Mar-23,1,0
+57405,"Baby Care","Baby Food",607.67,607.67,Mar-23,1,0
+52729,"Pet Care","Cat Food",316.02,316.02,Mar-23,1,0
+131748,"Pet Care","Dog Food",81.35,81.35,Mar-23,1,0
+913428,"Pet Care","Pet Treats",392.22,392.22,Mar-23,1,0
+642612,"Pet Care","Pet Treats",517.03,517.03,Mar-23,1,0
+784673,"Pet Care","Dog Food",491.39,491.39,Mar-23,1,0
+587645,Pharmacy,Vitamins,801.81,801.81,Mar-23,1,0
+837480,Pharmacy,"Cough Syrup",217.4,217.4,Mar-23,1,0
+137909,Pharmacy,"Cough Syrup",864.3,864.3,Mar-23,1,0
+992178,Pharmacy,"Pain Reliever",632.43,632.43,Mar-23,1,0
+56589,Pharmacy,Vitamins,517.77,517.77,Mar-23,1,0
+154179,Pharmacy,"Pain Reliever",582.87,582.87,Mar-23,1,0
+478531,"Fruits & Vegetables",Carrots,825.46,825.46,Mar-23,1,0
+14145,"Fruits & Vegetables",Spinach,630.84,630.84,Mar-23,2,0
+871592,"Fruits & Vegetables",Carrots,870.29,870.29,Mar-23,1,0
+818522,"Dairy & Breakfast",Cheese,96.09,96.09,Mar-23,2,0
+15314,"Dairy & Breakfast",Cheese,578.85,578.85,Mar-23,2,0
+880510,"Dairy & Breakfast",Bread,951.43,951.43,Mar-23,2,0
+329351,"Dairy & Breakfast",Cheese,310.87,310.87,Mar-23,2,0
+337168,"Dairy & Breakfast",Eggs,545.49,545.49,Mar-23,1,0
+839170,"Dairy & Breakfast",Curd,481.63,481.63,Mar-23,1,0
+961614,"Snacks & Munchies",Chocolates,227.22,227.22,Mar-23,1,0
+654623,"Snacks & Munchies",Chips,422.14,422.14,Mar-23,2,0
+658389,"Snacks & Munchies",Popcorn,152.55,152.55,Mar-23,1,0
+990993,"Snacks & Munchies",Chocolates,263.7,263.7,Mar-23,1,0
+991434,"Snacks & Munchies",Cookies,237.62,237.62,Mar-23,1,0
+687218,"Cold Drinks & Juices","Mango Drink",317.82,317.82,Mar-23,1,0
+194682,"Cold Drinks & Juices","Iced Tea",912.29,912.29,Mar-23,2,0
+679321,"Cold Drinks & Juices",Cola,738.46,738.46,Mar-23,2,0
+561860,"Cold Drinks & Juices","Orange Juice",874.78,874.78,Mar-23,1,0
+712307,"Cold Drinks & Juices","Orange Juice",264.89,264.89,Mar-23,2,0
+890232,"Cold Drinks & Juices","Mango Drink",432,432,Mar-23,1,0
+398340,"Instant & Frozen Food","Instant Noodles",651.93,651.93,Mar-23,1,0
+652118,"Instant & Frozen Food","Frozen Biryani",22.04,22.04,Mar-23,1,0
+53833,"Grocery & Staples",Rice,134.69,134.69,Mar-23,1,0
+903336,"Grocery & Staples",Pulses,551.88,551.88,Mar-23,1,0
+120532,"Grocery & Staples","Wheat Flour",697.53,697.53,Mar-23,1,0
+945635,"Grocery & Staples",Pulses,778.9,778.9,Mar-23,1,0
+131136,"Grocery & Staples",Salt,37.8,37.8,Mar-23,1,0
+993331,"Grocery & Staples",Pulses,102.44,102.44,Mar-23,2,0
+451933,"Grocery & Staples","Wheat Flour",568.94,568.94,Mar-23,1,0
+704868,"Household Care",Detergent,193.46,193.46,Mar-23,1,0
+336847,"Household Care","Toilet Cleaner",936.98,936.98,Mar-23,1,0
+144124,"Household Care",Detergent,162.67,162.67,Mar-23,1,0
+747801,"Household Care","Toilet Cleaner",277.76,277.76,Mar-23,2,0
+589812,"Household Care",Detergent,163.03,163.03,Mar-23,1,0
+604184,"Household Care","Toilet Cleaner",397.55,397.55,Mar-23,1,0
+709916,"Household Care",Detergent,33.76,33.76,Mar-23,1,0
+700048,"Household Care","Dish Soap",141.28,141.28,Mar-23,2,0
+767398,"Household Care","Dish Soap",22.14,22.14,Mar-23,2,0
+490939,"Personal Care",Lotion,80.25,80.25,Mar-23,1,0
+124290,"Personal Care",Lotion,39.65,39.65,Mar-23,2,0
+492958,"Personal Care",Lotion,84.2,84.2,Mar-23,2,0
+853932,"Baby Care","Baby Wipes",941.19,941.19,Mar-23,1,0
+433521,"Baby Care",Diapers,321.33,321.33,Mar-23,1,0
+120385,"Pet Care","Pet Treats",597.91,597.91,Mar-23,2,0
+373536,"Pet Care","Dog Food",494.17,494.17,Mar-23,1,0
+131748,"Pet Care","Dog Food",81.35,81.35,Mar-23,1,0
+537274,"Pet Care","Pet Treats",702.71,702.71,Mar-23,1,0
+642612,"Pet Care","Pet Treats",517.03,517.03,Mar-23,2,0
+784673,"Pet Care","Dog Food",491.39,491.39,Mar-23,1,0
+451812,Pharmacy,"Pain Reliever",530.85,530.85,Mar-23,2,0
+137909,Pharmacy,"Cough Syrup",864.3,864.3,Mar-23,1,0
+264803,Pharmacy,Vitamins,995.98,995.98,Mar-23,2,0
+123983,Pharmacy,"Cough Syrup",785.67,785.67,Mar-23,1,0
+154179,Pharmacy,"Pain Reliever",582.87,582.87,Mar-23,1,0
+298985,Pharmacy,Vitamins,183.76,183.76,Mar-23,1,0
+890623,"Fruits & Vegetables",Onions,354.52,354.52,Mar-23,1,0
+196719,"Fruits & Vegetables",Bananas,217.5,217.5,Mar-23,1,0
+284460,"Fruits & Vegetables",Potatoes,505.95,505.95,Mar-23,1,0
+473929,"Fruits & Vegetables",Carrots,440.19,440.19,Mar-23,2,0
+952124,"Fruits & Vegetables",Onions,127.08,127.08,Mar-23,2,0
+382511,"Dairy & Breakfast",Butter,702.54,702.54,Mar-23,2,0
+891833,"Dairy & Breakfast",Curd,493.19,493.19,Mar-23,1,0
+798639,"Dairy & Breakfast",Eggs,211.25,211.25,Mar-23,1,0
+883013,"Dairy & Breakfast",Eggs,989.88,989.88,Mar-23,1,0
+183929,"Dairy & Breakfast",Bread,738.74,738.74,Mar-23,1,0
+734789,"Snacks & Munchies",Popcorn,395.82,395.82,Mar-23,1,0
+690565,"Snacks & Munchies",Cookies,951.27,951.27,Mar-23,2,0
+291238,"Snacks & Munchies",Chocolates,746.03,746.03,Mar-23,1,0
+563740,"Snacks & Munchies",Chips,96.33,96.33,Mar-23,1,0
+990993,"Snacks & Munchies",Chocolates,263.7,263.7,Mar-23,1,0
+542300,"Snacks & Munchies",Popcorn,255.35,255.35,Mar-23,2,0
+679321,"Cold Drinks & Juices",Cola,738.46,738.46,Mar-23,1,0
+667163,"Cold Drinks & Juices","Orange Juice",441.2,441.2,Mar-23,2,0
+712003,"Cold Drinks & Juices",Cola,671.68,671.68,Mar-23,2,0
+890232,"Cold Drinks & Juices","Mango Drink",432,432,Mar-23,2,0
+398340,"Instant & Frozen Food","Instant Noodles",651.93,651.93,Mar-23,1,0
+491314,"Instant & Frozen Food","Ice Cream",973.44,973.44,Mar-23,1,0
+470449,"Instant & Frozen Food","Frozen Biryani",827.77,827.77,Mar-23,2,0
+131937,"Instant & Frozen Food","Frozen Pizza",287.81,287.81,Mar-23,1,0
+187399,"Instant & Frozen Food","Frozen Pizza",53.49,53.49,Mar-23,1,0
+692985,"Grocery & Staples",Pulses,197.39,197.39,Mar-23,1,0
+760684,"Grocery & Staples",Rice,71.6,71.6,Mar-23,2,0
+354409,"Grocery & Staples",Pulses,325.08,325.08,Mar-23,2,0
+490602,"Grocery & Staples",Sugar,549.47,549.47,Mar-23,1,0
+327290,"Grocery & Staples",Sugar,862.28,862.28,Mar-23,1,0
+451933,"Grocery & Staples","Wheat Flour",568.94,568.94,Mar-23,1,0
+704868,"Household Care",Detergent,193.46,193.46,Mar-23,1,0
+552496,"Household Care","Dish Soap",508,508,Mar-23,1,0
+677542,"Household Care","Toilet Cleaner",212.61,212.61,Mar-23,1,0
+604184,"Household Care","Toilet Cleaner",397.55,397.55,Mar-23,1,0
+473647,"Personal Care",Toothpaste,43.05,43.05,Mar-23,1,0
+385113,"Personal Care",Lotion,816.38,816.38,Mar-23,2,0
+672059,"Personal Care",Toothpaste,672.73,672.73,Mar-23,2,0
+799688,"Personal Care",Lotion,309.62,309.62,Mar-23,1,0
+492958,"Personal Care",Lotion,84.2,84.2,Mar-23,2,0
+219598,"Personal Care",Shampoo,367.08,367.08,Mar-23,1,0
+140154,"Personal Care",Shampoo,171.2,171.2,Mar-23,2,0
+449106,"Personal Care",Soap,48.55,48.55,Mar-23,2,0
+927651,"Baby Care","Baby Wipes",426.72,426.72,Mar-23,1,0
+930284,"Baby Care","Baby Food",189.47,189.47,Mar-23,1,0
+425341,"Pet Care","Pet Treats",486.28,486.28,Mar-23,2,0
+566052,Pharmacy,"Pain Reliever",87.3,87.3,Mar-23,1,0
+992178,Pharmacy,"Pain Reliever",632.43,632.43,Mar-23,2,0
+240179,Pharmacy,"Cough Syrup",90.56,90.56,Mar-23,2,0
+673058,Pharmacy,"Cough Syrup",765.76,765.76,Mar-23,1,0
+11422,"Fruits & Vegetables",Potatoes,127.16,127.16,Mar-23,1,0
+349294,"Fruits & Vegetables",Onions,934.75,934.75,Mar-23,2,0
+397973,"Fruits & Vegetables",Bananas,728.73,728.73,Mar-23,2,0
+15314,"Dairy & Breakfast",Cheese,578.85,578.85,Mar-23,1,0
+833557,"Dairy & Breakfast",Cereal,422.87,422.87,Mar-23,2,0
+337168,"Dairy & Breakfast",Eggs,545.49,545.49,Mar-23,1,0
+883013,"Dairy & Breakfast",Eggs,989.88,989.88,Mar-23,2,0
+183929,"Dairy & Breakfast",Bread,738.74,738.74,Mar-23,1,0
+361361,"Snacks & Munchies",Biscuits,826.21,826.21,Mar-23,2,0
+313754,"Snacks & Munchies",Biscuits,136.6,136.6,Mar-23,1,0
+658389,"Snacks & Munchies",Popcorn,152.55,152.55,Mar-23,2,0
+491521,"Snacks & Munchies",Nuts,556.35,556.35,Mar-23,2,0
+914071,"Snacks & Munchies",Chips,296.94,296.94,Mar-23,1,0
+962054,"Cold Drinks & Juices","Orange Juice",16.86,16.86,Mar-23,1,0
+532965,"Instant & Frozen Food","Frozen Pizza",307.23,307.23,Mar-23,1,0
+606256,"Instant & Frozen Food","Frozen Biryani",369.28,369.28,Mar-23,2,0
+652118,"Instant & Frozen Food","Frozen Biryani",22.04,22.04,Mar-23,2,0
+925482,"Instant & Frozen Food","Frozen Biryani",475.04,475.04,Mar-23,1,0
+764014,"Grocery & Staples",Salt,612.04,612.04,Mar-23,1,0
+760684,"Grocery & Staples",Rice,71.6,71.6,Mar-23,1,0
+937542,"Grocery & Staples","Wheat Flour",97.04,97.04,Mar-23,2,0
+993331,"Grocery & Staples",Pulses,102.44,102.44,Mar-23,2,0
+435929,"Household Care","Toilet Cleaner",856.89,856.89,Mar-23,1,0
+697683,"Household Care","Toilet Cleaner",123.74,123.74,Mar-23,1,0
+448752,"Household Care","Toilet Cleaner",160.07,160.07,Mar-23,2,0
+133542,"Household Care",Detergent,68.49,68.49,Mar-23,1,0
+492958,"Personal Care",Lotion,84.2,84.2,Mar-23,1,0
+140154,"Personal Care",Shampoo,171.2,171.2,Mar-23,1,0
+440875,"Baby Care","Baby Wipes",275.03,275.03,Mar-23,1,0
+951463,"Pet Care","Pet Treats",787.4,787.4,Mar-23,1,0
+525531,"Pet Care","Dog Food",831.1,831.1,Mar-23,1,0
+613942,"Pet Care","Pet Treats",545,545,Mar-23,1,0
+784673,"Pet Care","Dog Food",491.39,491.39,Mar-23,1,0
+677169,Pharmacy,"Cough Syrup",261.03,261.03,Mar-23,1,0
+799459,Pharmacy,Vitamins,852.02,852.02,Mar-23,1,0
+992178,Pharmacy,"Pain Reliever",632.43,632.43,Mar-23,1,0
+114414,Pharmacy,Vitamins,832.06,832.06,Mar-23,1,0
+153019,"Fruits & Vegetables",Onions,947.95,947.95,Mar-23,1,0
+669378,"Fruits & Vegetables",Potatoes,212.14,212.14,Mar-23,1,0
+196719,"Fruits & Vegetables",Bananas,217.5,217.5,Mar-23,2,0
+77308,"Fruits & Vegetables",Onions,223.27,223.27,Mar-23,1,0
+462526,"Dairy & Breakfast",Curd,449.97,449.97,Mar-23,1,0
+146840,"Dairy & Breakfast",Bread,786.85,786.85,Mar-23,1,0
+136533,"Dairy & Breakfast",Eggs,826.21,826.21,Mar-23,1,0
+714999,"Dairy & Breakfast",Bread,882.51,882.51,Mar-23,2,0
+15314,"Dairy & Breakfast",Cheese,578.85,578.85,Mar-23,1,0
+41853,"Dairy & Breakfast",Curd,910.44,910.44,Mar-23,1,0
+741341,"Dairy & Breakfast",Eggs,923.84,923.84,Mar-23,2,0
+324809,"Dairy & Breakfast",Bread,608,608,Mar-23,1,0
+949818,"Snacks & Munchies",Biscuits,483.05,483.05,Mar-23,2,0
+291238,"Snacks & Munchies",Chocolates,746.03,746.03,Mar-23,2,0
+832348,"Snacks & Munchies",Biscuits,831.43,831.43,Mar-23,2,0
+681063,"Cold Drinks & Juices","Mango Drink",321.28,321.28,Mar-23,1,0
+378287,"Cold Drinks & Juices",Lemonade,332.84,332.84,Mar-23,1,0
+228286,"Cold Drinks & Juices",Cola,179.08,179.08,Mar-23,1,0
+712003,"Cold Drinks & Juices",Cola,671.68,671.68,Mar-23,1,0
+712307,"Cold Drinks & Juices","Orange Juice",264.89,264.89,Mar-23,1,0
+969851,"Instant & Frozen Food","Frozen Vegetables",340.66,340.66,Mar-23,1,0
+33955,"Instant & Frozen Food","Frozen Pizza",186.08,186.08,Mar-23,1,0
+623234,"Instant & Frozen Food","Frozen Biryani",329.79,329.79,Mar-23,1,0
+272170,"Instant & Frozen Food","Ice Cream",140.8,140.8,Mar-23,2,0
+287070,"Grocery & Staples","Wheat Flour",443.17,443.17,Mar-23,1,0
+679865,"Grocery & Staples","Wheat Flour",347.91,347.91,Mar-23,1,0
+327290,"Grocery & Staples",Sugar,862.28,862.28,Mar-23,1,0
+807452,"Grocery & Staples",Pulses,144.19,144.19,Mar-23,1,0
+18035,"Household Care","Dish Soap",968.94,968.94,Mar-23,1,0
+799688,"Personal Care",Lotion,309.62,309.62,Mar-23,1,0
+615545,"Personal Care",Soap,448.16,448.16,Mar-23,2,0
+6405,"Baby Care","Baby Food",236.51,236.51,Mar-23,2,0
+57405,"Baby Care","Baby Food",607.67,607.67,Mar-23,1,0
+757274,"Pet Care","Pet Treats",98.32,98.32,Mar-23,2,0
+425341,"Pet Care","Pet Treats",486.28,486.28,Mar-23,1,0
+274207,Pharmacy,"Cough Syrup",328.51,328.51,Mar-23,1,0
+706112,Pharmacy,Vitamins,478.79,478.79,Mar-23,2,0
+851978,Pharmacy,Vitamins,715.72,715.72,Mar-23,1,0
+33797,Pharmacy,"Pain Reliever",888.12,888.12,Mar-23,1,0
+123983,Pharmacy,"Cough Syrup",785.67,785.67,Mar-23,2,0
+669378,"Fruits & Vegetables",Potatoes,212.14,212.14,Mar-23,1,0
+965755,"Fruits & Vegetables",Bananas,532.57,532.57,Mar-23,2,0
+222892,"Fruits & Vegetables",Tomatoes,869.22,869.22,Mar-23,1,0
+516376,"Fruits & Vegetables",Onions,877.43,877.43,Mar-23,2,0
+812607,"Fruits & Vegetables",Potatoes,416.65,416.65,Mar-23,1,0
+136533,"Dairy & Breakfast",Eggs,826.21,826.21,Mar-23,1,0
+714999,"Dairy & Breakfast",Bread,882.51,882.51,Mar-23,1,0
+382511,"Dairy & Breakfast",Butter,702.54,702.54,Mar-23,1,0
+500633,"Dairy & Breakfast",Cereal,154.5,154.5,Mar-23,1,0
+799952,"Dairy & Breakfast",Cheese,922.64,922.64,Mar-23,1,0
+833557,"Dairy & Breakfast",Cereal,422.87,422.87,Mar-23,1,0
+455083,"Dairy & Breakfast",Butter,959.01,959.01,Mar-23,2,0
+361361,"Snacks & Munchies",Biscuits,826.21,826.21,Mar-23,1,0
+990993,"Snacks & Munchies",Chocolates,263.7,263.7,Mar-23,1,0
+914071,"Snacks & Munchies",Chips,296.94,296.94,Mar-23,1,0
+481843,"Snacks & Munchies",Chocolates,297.68,297.68,Mar-23,1,0
+991434,"Snacks & Munchies",Cookies,237.62,237.62,Mar-23,2,0
+540618,"Snacks & Munchies",Popcorn,317.05,317.05,Mar-23,2,0
+60619,"Cold Drinks & Juices","Iced Tea",726.41,726.41,Mar-23,2,0
+107548,"Cold Drinks & Juices",Cola,891.6,891.6,Mar-23,1,0
+687218,"Cold Drinks & Juices","Mango Drink",317.82,317.82,Mar-23,2,0
+194682,"Cold Drinks & Juices","Iced Tea",912.29,912.29,Mar-23,1,0
+228286,"Cold Drinks & Juices",Cola,179.08,179.08,Mar-23,2,0
+969851,"Instant & Frozen Food","Frozen Vegetables",340.66,340.66,Mar-23,2,0
+33955,"Instant & Frozen Food","Frozen Pizza",186.08,186.08,Mar-23,1,0
+131937,"Instant & Frozen Food","Frozen Pizza",287.81,287.81,Mar-23,1,0
+187399,"Instant & Frozen Food","Frozen Pizza",53.49,53.49,Mar-23,1,0
+721521,"Grocery & Staples",Rice,417.39,417.39,Mar-23,1,0
+120532,"Grocery & Staples","Wheat Flour",697.53,697.53,Mar-23,1,0
+760684,"Grocery & Staples",Rice,71.6,71.6,Mar-23,1,0
+354409,"Grocery & Staples",Pulses,325.08,325.08,Mar-23,1,0
+937542,"Grocery & Staples","Wheat Flour",97.04,97.04,Mar-23,1,0
+327290,"Grocery & Staples",Sugar,862.28,862.28,Mar-23,1,0
+739448,"Household Care","Dish Soap",755.66,755.66,Mar-23,1,0
+897083,"Household Care",Detergent,972.69,972.69,Mar-23,2,0
+365133,"Household Care","Dish Soap",915.45,915.45,Mar-23,1,0
+133542,"Household Care",Detergent,68.49,68.49,Mar-23,2,0
+34200,"Personal Care",Lotion,319.8,319.8,Mar-23,1,0
+4452,"Baby Care","Baby Wipes",169.88,169.88,Mar-23,1,0
+120385,"Pet Care","Pet Treats",597.91,597.91,Mar-23,1,0
+186168,"Pet Care","Dog Food",878.8,878.8,Mar-23,1,0
+537274,"Pet Care","Pet Treats",702.71,702.71,Mar-23,1,0
+613942,"Pet Care","Pet Treats",545,545,Mar-23,2,0
+760828,"Pet Care","Pet Treats",563.45,563.45,Mar-23,1,0
+557908,Pharmacy,Vitamins,942.37,942.37,Mar-23,1,0
+33797,Pharmacy,"Pain Reliever",888.12,888.12,Mar-23,2,0
+237083,Pharmacy,"Cough Syrup",577.13,577.13,Mar-23,1,0
+196719,"Fruits & Vegetables",Bananas,217.5,217.5,Mar-23,2,0
+349294,"Fruits & Vegetables",Onions,934.75,934.75,Mar-23,2,0
+462526,"Dairy & Breakfast",Curd,449.97,449.97,Mar-23,1,0
+888807,"Dairy & Breakfast",Bread,230.58,230.58,Mar-23,1,0
+500739,"Dairy & Breakfast",Bread,359.98,359.98,Mar-23,1,0
+337168,"Dairy & Breakfast",Eggs,545.49,545.49,Mar-23,1,0
+659290,"Dairy & Breakfast",Cheese,319.34,319.34,Mar-23,1,0
+602241,"Snacks & Munchies",Nuts,976.55,976.55,Mar-23,1,0
+300159,"Cold Drinks & Juices",Cola,44.35,44.35,Mar-23,2,0
+689769,"Instant & Frozen Food","Frozen Vegetables",46.62,46.62,Mar-23,1,0
+945635,"Grocery & Staples",Pulses,778.9,778.9,Mar-23,2,0
+131136,"Grocery & Staples",Salt,37.8,37.8,Mar-23,1,0
+644847,"Grocery & Staples",Salt,622.81,622.81,Mar-23,1,0
+747801,"Household Care","Toilet Cleaner",277.76,277.76,Mar-23,1,0
+968887,"Household Care","Dish Soap",40.7,40.7,Mar-23,1,0
+897083,"Household Care",Detergent,972.69,972.69,Mar-23,2,0
+473647,"Personal Care",Toothpaste,43.05,43.05,Mar-23,2,0
+82484,"Baby Care","Baby Food",914.88,914.88,Mar-23,1,0
+432617,"Baby Care","Baby Wipes",863.18,863.18,Mar-23,1,0
+566052,Pharmacy,"Pain Reliever",87.3,87.3,Mar-23,1,0
+264803,Pharmacy,Vitamins,995.98,995.98,Mar-23,1,0
+154179,Pharmacy,"Pain Reliever",582.87,582.87,Mar-23,2,0
+39154,"Fruits & Vegetables",Mangoes,946.86,946.86,Mar-23,1,0
+349294,"Fruits & Vegetables",Onions,934.75,934.75,Mar-23,1,0
+284460,"Fruits & Vegetables",Potatoes,505.95,505.95,Mar-23,1,0
+654297,"Fruits & Vegetables",Potatoes,13.25,13.25,Mar-23,2,0
+70969,"Fruits & Vegetables",Carrots,631.7,631.7,Mar-23,1,0
+552883,"Fruits & Vegetables",Potatoes,888.16,888.16,Mar-23,1,0
+952124,"Fruits & Vegetables",Onions,127.08,127.08,Mar-23,2,0
+146840,"Dairy & Breakfast",Bread,786.85,786.85,Mar-23,1,0
+136533,"Dairy & Breakfast",Eggs,826.21,826.21,Mar-23,2,0
+880510,"Dairy & Breakfast",Bread,951.43,951.43,Mar-23,1,0
+762527,"Snacks & Munchies",Biscuits,690.08,690.08,Mar-23,1,0
+991434,"Snacks & Munchies",Cookies,237.62,237.62,Mar-23,2,0
+319388,"Cold Drinks & Juices","Orange Juice",657.8,657.8,Mar-23,1,0
+679321,"Cold Drinks & Juices",Cola,738.46,738.46,Mar-23,1,0
+667163,"Cold Drinks & Juices","Orange Juice",441.2,441.2,Mar-23,1,0
+513199,"Cold Drinks & Juices",Cola,422.23,422.23,Mar-23,2,0
+689769,"Instant & Frozen Food","Frozen Vegetables",46.62,46.62,Mar-23,1,0
+491314,"Instant & Frozen Food","Ice Cream",973.44,973.44,Mar-23,1,0
+652118,"Instant & Frozen Food","Frozen Biryani",22.04,22.04,Mar-23,1,0
+679865,"Grocery & Staples","Wheat Flour",347.91,347.91,Mar-23,1,0
+589812,"Household Care",Detergent,163.03,163.03,Mar-23,1,0
+9436,"Personal Care",Toothpaste,88.43,88.43,Mar-23,2,0
+385113,"Personal Care",Lotion,816.38,816.38,Mar-23,1,0
+799688,"Personal Care",Lotion,309.62,309.62,Mar-23,2,0
+492958,"Personal Care",Lotion,84.2,84.2,Mar-23,1,0
+820973,"Baby Care","Baby Wipes",114.52,114.52,Mar-23,1,0
+11422,"Fruits & Vegetables",Potatoes,127.16,127.16,Mar-23,1,0
+14145,"Fruits & Vegetables",Spinach,630.84,630.84,Mar-23,2,0
+70969,"Fruits & Vegetables",Carrots,631.7,631.7,Mar-23,2,0
+257719,"Dairy & Breakfast",Eggs,281.73,281.73,Mar-23,1,0
+455083,"Dairy & Breakfast",Butter,959.01,959.01,Mar-23,1,0
+592784,"Snacks & Munchies",Biscuits,280.35,280.35,Mar-23,1,0
+949818,"Snacks & Munchies",Biscuits,483.05,483.05,Mar-23,2,0
+690565,"Snacks & Munchies",Cookies,951.27,951.27,Mar-23,1,0
+952168,"Snacks & Munchies",Popcorn,236.95,236.95,Mar-23,1,0
+602241,"Snacks & Munchies",Nuts,976.55,976.55,Mar-23,1,0
+481843,"Snacks & Munchies",Chocolates,297.68,297.68,Mar-23,2,0
+171602,"Cold Drinks & Juices",Cola,883.44,883.44,Mar-23,2,0
+328457,"Cold Drinks & Juices","Mango Drink",858.57,858.57,Mar-23,2,0
+712003,"Cold Drinks & Juices",Cola,671.68,671.68,Mar-23,1,0
+954722,"Instant & Frozen Food","Ice Cream",616.45,616.45,Mar-23,1,0
+925482,"Instant & Frozen Food","Frozen Biryani",475.04,475.04,Mar-23,2,0
+611575,"Instant & Frozen Food","Frozen Pizza",482.06,482.06,Mar-23,2,0
+901144,"Grocery & Staples",Sugar,340.36,340.36,Mar-23,1,0
+354409,"Grocery & Staples",Pulses,325.08,325.08,Mar-23,1,0
+317242,"Grocery & Staples",Pulses,198.15,198.15,Mar-23,2,0
+327290,"Grocery & Staples",Sugar,862.28,862.28,Mar-23,2,0
+704868,"Household Care",Detergent,193.46,193.46,Mar-23,1,0
+18035,"Household Care","Dish Soap",968.94,968.94,Mar-23,1,0
+91670,"Household Care","Dish Soap",439.24,439.24,Mar-23,1,0
+739534,"Household Care","Toilet Cleaner",994.56,994.56,Mar-23,1,0
+385113,"Personal Care",Lotion,816.38,816.38,Mar-23,1,0
+112390,"Personal Care",Toothpaste,877.98,877.98,Mar-23,2,0
+859361,"Personal Care",Shampoo,432.39,432.39,Mar-23,2,0
+492958,"Personal Care",Lotion,84.2,84.2,Mar-23,1,0
+615545,"Personal Care",Soap,448.16,448.16,Mar-23,2,0
+953175,"Baby Care","Baby Food",225.21,225.21,Mar-23,1,0
+120385,"Pet Care","Pet Treats",597.91,597.91,Mar-23,2,0
+373536,"Pet Care","Dog Food",494.17,494.17,Mar-23,1,0
+784673,"Pet Care","Dog Food",491.39,491.39,Mar-23,2,0
+26060,Pharmacy,Vitamins,342.94,342.94,Mar-23,2,0
+11422,"Fruits & Vegetables",Potatoes,127.16,127.16,Mar-23,1,0
+34186,"Fruits & Vegetables",Mangoes,925.65,925.65,Mar-23,1,0
+478531,"Fruits & Vegetables",Carrots,825.46,825.46,Mar-23,1,0
+397973,"Fruits & Vegetables",Bananas,728.73,728.73,Mar-23,1,0
+217710,"Dairy & Breakfast",Eggs,58.59,58.59,Mar-23,2,0
+146840,"Dairy & Breakfast",Bread,786.85,786.85,Mar-23,2,0
+500739,"Dairy & Breakfast",Bread,359.98,359.98,Mar-23,1,0
+324809,"Dairy & Breakfast",Bread,608,608,Mar-23,1,0
+563740,"Snacks & Munchies",Chips,96.33,96.33,Mar-23,1,0
+540618,"Snacks & Munchies",Popcorn,317.05,317.05,Mar-23,2,0
+962591,"Cold Drinks & Juices","Orange Juice",130.01,130.01,Mar-23,1,0
+687218,"Cold Drinks & Juices","Mango Drink",317.82,317.82,Mar-23,1,0
+328457,"Cold Drinks & Juices","Mango Drink",858.57,858.57,Mar-23,1,0
+667163,"Cold Drinks & Juices","Orange Juice",441.2,441.2,Mar-23,1,0
+365132,"Instant & Frozen Food","Instant Noodles",229.38,229.38,Mar-23,1,0
+969851,"Instant & Frozen Food","Frozen Vegetables",340.66,340.66,Mar-23,1,0
+621677,"Instant & Frozen Food","Frozen Biryani",317.8,317.8,Mar-23,2,0
+306177,"Instant & Frozen Food","Frozen Biryani",769.24,769.24,Mar-23,2,0
+764014,"Grocery & Staples",Salt,612.04,612.04,Mar-23,1,0
+287070,"Grocery & Staples","Wheat Flour",443.17,443.17,Mar-23,1,0
+679865,"Grocery & Staples","Wheat Flour",347.91,347.91,Mar-23,1,0
+644847,"Grocery & Staples",Salt,622.81,622.81,Mar-23,1,0
+36412,"Household Care","Dish Soap",397.68,397.68,Mar-23,1,0
+365133,"Household Care","Dish Soap",915.45,915.45,Mar-23,2,0
+863930,"Personal Care",Shampoo,242.57,242.57,Mar-23,1,0
+34200,"Personal Care",Lotion,319.8,319.8,Mar-23,2,0
+256051,"Personal Care",Lotion,400.92,400.92,Mar-23,1,0
+367391,"Baby Care","Baby Wipes",939.55,939.55,Mar-23,2,0
+433521,"Baby Care",Diapers,321.33,321.33,Mar-23,2,0
+661577,"Pet Care","Cat Food",720.95,720.95,Mar-23,2,0
+564692,"Pet Care","Cat Food",215.65,215.65,Mar-23,1,0
+642612,"Pet Care","Pet Treats",517.03,517.03,Mar-23,2,0
+613942,"Pet Care","Pet Treats",545,545,Mar-23,1,0
+723678,"Pet Care","Dog Food",675.46,675.46,Mar-23,2,0
+587645,Pharmacy,Vitamins,801.81,801.81,Mar-23,2,0
+851978,Pharmacy,Vitamins,715.72,715.72,Mar-23,2,0
+33797,Pharmacy,"Pain Reliever",888.12,888.12,Mar-23,1,0
+673058,Pharmacy,"Cough Syrup",765.76,765.76,Mar-23,2,0
+11422,"Fruits & Vegetables",Potatoes,127.16,127.16,Apr-23,1,0
+890623,"Fruits & Vegetables",Onions,354.52,354.52,Apr-23,2,0
+818990,"Fruits & Vegetables",Tomatoes,163.55,163.55,Apr-23,1,0
+552883,"Fruits & Vegetables",Potatoes,888.16,888.16,Apr-23,1,0
+952124,"Fruits & Vegetables",Onions,127.08,127.08,Apr-23,2,0
+555121,"Fruits & Vegetables",Carrots,354.91,354.91,Apr-23,1,0
+376447,"Dairy & Breakfast",Butter,724.84,724.84,Apr-23,2,0
+217710,"Dairy & Breakfast",Eggs,58.59,58.59,Apr-23,1,0
+136533,"Dairy & Breakfast",Eggs,826.21,826.21,Apr-23,1,0
+67197,"Dairy & Breakfast",Butter,552.2,552.2,Apr-23,1,0
+329351,"Dairy & Breakfast",Cheese,310.87,310.87,Apr-23,2,0
+324809,"Dairy & Breakfast",Bread,608,608,Apr-23,1,0
+659290,"Dairy & Breakfast",Cheese,319.34,319.34,Apr-23,1,0
+839170,"Dairy & Breakfast",Curd,481.63,481.63,Apr-23,1,0
+455083,"Dairy & Breakfast",Butter,959.01,959.01,Apr-23,1,0
+487065,"Snacks & Munchies",Chips,374.68,374.68,Apr-23,2,0
+990993,"Snacks & Munchies",Chocolates,263.7,263.7,Apr-23,1,0
+914071,"Snacks & Munchies",Chips,296.94,296.94,Apr-23,2,0
+481843,"Snacks & Munchies",Chocolates,297.68,297.68,Apr-23,1,0
+667163,"Cold Drinks & Juices","Orange Juice",441.2,441.2,Apr-23,1,0
+365132,"Instant & Frozen Food","Instant Noodles",229.38,229.38,Apr-23,1,0
+689769,"Instant & Frozen Food","Frozen Vegetables",46.62,46.62,Apr-23,2,0
+33955,"Instant & Frozen Food","Frozen Pizza",186.08,186.08,Apr-23,1,0
+470449,"Instant & Frozen Food","Frozen Biryani",827.77,827.77,Apr-23,2,0
+954722,"Instant & Frozen Food","Ice Cream",616.45,616.45,Apr-23,1,0
+623234,"Instant & Frozen Food","Frozen Biryani",329.79,329.79,Apr-23,1,0
+606256,"Instant & Frozen Food","Frozen Biryani",369.28,369.28,Apr-23,2,0
+652118,"Instant & Frozen Food","Frozen Biryani",22.04,22.04,Apr-23,2,0
+621677,"Instant & Frozen Food","Frozen Biryani",317.8,317.8,Apr-23,1,0
+306177,"Instant & Frozen Food","Frozen Biryani",769.24,769.24,Apr-23,1,0
+692985,"Grocery & Staples",Pulses,197.39,197.39,Apr-23,1,0
+354409,"Grocery & Staples",Pulses,325.08,325.08,Apr-23,1,0
+937542,"Grocery & Staples","Wheat Flour",97.04,97.04,Apr-23,1,0
+287070,"Grocery & Staples","Wheat Flour",443.17,443.17,Apr-23,1,0
+679865,"Grocery & Staples","Wheat Flour",347.91,347.91,Apr-23,1,0
+644847,"Grocery & Staples",Salt,622.81,622.81,Apr-23,2,0
+36412,"Household Care","Dish Soap",397.68,397.68,Apr-23,2,0
+704868,"Household Care",Detergent,193.46,193.46,Apr-23,2,0
+435929,"Household Care","Toilet Cleaner",856.89,856.89,Apr-23,1,0
+336847,"Household Care","Toilet Cleaner",936.98,936.98,Apr-23,2,0
+144124,"Household Care",Detergent,162.67,162.67,Apr-23,1,0
+589812,"Household Care",Detergent,163.03,163.03,Apr-23,1,0
+604184,"Household Care","Toilet Cleaner",397.55,397.55,Apr-23,1,0
+697683,"Household Care","Toilet Cleaner",123.74,123.74,Apr-23,1,0
+112390,"Personal Care",Toothpaste,877.98,877.98,Apr-23,1,0
+672059,"Personal Care",Toothpaste,672.73,672.73,Apr-23,2,0
+124290,"Personal Care",Lotion,39.65,39.65,Apr-23,1,0
+219598,"Personal Care",Shampoo,367.08,367.08,Apr-23,2,0
+449106,"Personal Care",Soap,48.55,48.55,Apr-23,1,0
+853932,"Baby Care","Baby Wipes",941.19,941.19,Apr-23,2,0
+970529,"Baby Care",Diapers,827.44,827.44,Apr-23,1,0
+927651,"Baby Care","Baby Wipes",426.72,426.72,Apr-23,1,0
+82484,"Baby Care","Baby Food",914.88,914.88,Apr-23,1,0
+440875,"Baby Care","Baby Wipes",275.03,275.03,Apr-23,1,0
+585299,"Pet Care","Pet Treats",799.46,799.46,Apr-23,1,0
+52729,"Pet Care","Cat Food",316.02,316.02,Apr-23,1,0
+373536,"Pet Care","Dog Food",494.17,494.17,Apr-23,2,0
+564692,"Pet Care","Cat Food",215.65,215.65,Apr-23,1,0
+642612,"Pet Care","Pet Treats",517.03,517.03,Apr-23,1,0
+784673,"Pet Care","Dog Food",491.39,491.39,Apr-23,2,0
+425341,"Pet Care","Pet Treats",486.28,486.28,Apr-23,1,0
+771228,"Pet Care","Pet Treats",83.18,83.18,Apr-23,1,0
+837480,Pharmacy,"Cough Syrup",217.4,217.4,Apr-23,1,0
+799459,Pharmacy,Vitamins,852.02,852.02,Apr-23,1,0
+123983,Pharmacy,"Cough Syrup",785.67,785.67,Apr-23,1,0
+237083,Pharmacy,"Cough Syrup",577.13,577.13,Apr-23,1,0
+154179,Pharmacy,"Pain Reliever",582.87,582.87,Apr-23,1,0
+298985,Pharmacy,Vitamins,183.76,183.76,Apr-23,1,0
+679284,Pharmacy,"Cough Syrup",877.89,877.89,Apr-23,2,0
+669378,"Fruits & Vegetables",Potatoes,212.14,212.14,Apr-23,1,0
+965755,"Fruits & Vegetables",Bananas,532.57,532.57,Apr-23,1,0
+196719,"Fruits & Vegetables",Bananas,217.5,217.5,Apr-23,2,0
+847349,"Fruits & Vegetables",Potatoes,781.08,781.08,Apr-23,2,0
+871592,"Fruits & Vegetables",Carrots,870.29,870.29,Apr-23,1,0
+284460,"Fruits & Vegetables",Potatoes,505.95,505.95,Apr-23,2,0
+70969,"Fruits & Vegetables",Carrots,631.7,631.7,Apr-23,2,0
+552883,"Fruits & Vegetables",Potatoes,888.16,888.16,Apr-23,1,0
+397973,"Fruits & Vegetables",Bananas,728.73,728.73,Apr-23,1,0
+555121,"Fruits & Vegetables",Carrots,354.91,354.91,Apr-23,1,0
+462526,"Dairy & Breakfast",Curd,449.97,449.97,Apr-23,1,0
+376447,"Dairy & Breakfast",Butter,724.84,724.84,Apr-23,1,0
+146840,"Dairy & Breakfast",Bread,786.85,786.85,Apr-23,2,0
+382511,"Dairy & Breakfast",Butter,702.54,702.54,Apr-23,2,0
+67197,"Dairy & Breakfast",Butter,552.2,552.2,Apr-23,2,0
+741341,"Dairy & Breakfast",Eggs,923.84,923.84,Apr-23,2,0
+500739,"Dairy & Breakfast",Bread,359.98,359.98,Apr-23,2,0
+949818,"Snacks & Munchies",Biscuits,483.05,483.05,Apr-23,1,0
+361361,"Snacks & Munchies",Biscuits,826.21,826.21,Apr-23,2,0
+658389,"Snacks & Munchies",Popcorn,152.55,152.55,Apr-23,1,0
+762527,"Snacks & Munchies",Biscuits,690.08,690.08,Apr-23,1,0
+832348,"Snacks & Munchies",Biscuits,831.43,831.43,Apr-23,1,0
+991434,"Snacks & Munchies",Cookies,237.62,237.62,Apr-23,1,0
+319388,"Cold Drinks & Juices","Orange Juice",657.8,657.8,Apr-23,4,0
+687218,"Cold Drinks & Juices","Mango Drink",317.82,317.82,Apr-23,1,0
+328457,"Cold Drinks & Juices","Mango Drink",858.57,858.57,Apr-23,1,0
+300159,"Cold Drinks & Juices",Cola,44.35,44.35,Apr-23,4,0
+561860,"Cold Drinks & Juices","Orange Juice",874.78,874.78,Apr-23,1,0
+712307,"Cold Drinks & Juices","Orange Juice",264.89,264.89,Apr-23,1,0
+532965,"Instant & Frozen Food","Frozen Pizza",307.23,307.23,Apr-23,2,0
+969851,"Instant & Frozen Food","Frozen Vegetables",340.66,340.66,Apr-23,2,0
+33955,"Instant & Frozen Food","Frozen Pizza",186.08,186.08,Apr-23,2,0
+623234,"Instant & Frozen Food","Frozen Biryani",329.79,329.79,Apr-23,1,0
+131937,"Instant & Frozen Food","Frozen Pizza",287.81,287.81,Apr-23,1,0
+187399,"Instant & Frozen Food","Frozen Pizza",53.49,53.49,Apr-23,1,0
+272170,"Instant & Frozen Food","Ice Cream",140.8,140.8,Apr-23,2,0
+901144,"Grocery & Staples",Sugar,340.36,340.36,Apr-23,2,0
+764014,"Grocery & Staples",Salt,612.04,612.04,Apr-23,2,0
+945635,"Grocery & Staples",Pulses,778.9,778.9,Apr-23,1,0
+354409,"Grocery & Staples",Pulses,325.08,325.08,Apr-23,1,0
+937542,"Grocery & Staples","Wheat Flour",97.04,97.04,Apr-23,2,0
+490602,"Grocery & Staples",Sugar,549.47,549.47,Apr-23,2,0
+287070,"Grocery & Staples","Wheat Flour",443.17,443.17,Apr-23,1,0
+644847,"Grocery & Staples",Salt,622.81,622.81,Apr-23,1,0
+993331,"Grocery & Staples",Pulses,102.44,102.44,Apr-23,2,0
+704868,"Household Care",Detergent,193.46,193.46,Apr-23,1,0
+435929,"Household Care","Toilet Cleaner",856.89,856.89,Apr-23,1,0
+455755,"Household Care",Detergent,44.09,44.09,Apr-23,2,0
+91670,"Household Care","Dish Soap",439.24,439.24,Apr-23,2,0
+336847,"Household Care","Toilet Cleaner",936.98,936.98,Apr-23,1,0
+589812,"Household Care",Detergent,163.03,163.03,Apr-23,1,0
+677542,"Household Care","Toilet Cleaner",212.61,212.61,Apr-23,1,0
+894539,"Household Care","Dish Soap",445.48,445.48,Apr-23,1,0
+739534,"Household Care","Toilet Cleaner",994.56,994.56,Apr-23,1,0
+473647,"Personal Care",Toothpaste,43.05,43.05,Apr-23,1,0
+385113,"Personal Care",Lotion,816.38,816.38,Apr-23,1,0
+647462,"Personal Care",Lotion,326.42,326.42,Apr-23,1,0
+34200,"Personal Care",Lotion,319.8,319.8,Apr-23,1,0
+859361,"Personal Care",Shampoo,432.39,432.39,Apr-23,1,0
+140154,"Personal Care",Shampoo,171.2,171.2,Apr-23,1,0
+366066,"Personal Care",Soap,918.58,918.58,Apr-23,2,0
+600767,"Personal Care",Toothpaste,722.42,722.42,Apr-23,1,0
+6405,"Baby Care","Baby Food",236.51,236.51,Apr-23,2,0
+853932,"Baby Care","Baby Wipes",941.19,941.19,Apr-23,2,0
+820973,"Baby Care","Baby Wipes",114.52,114.52,Apr-23,1,0
+930284,"Baby Care","Baby Food",189.47,189.47,Apr-23,1,0
+4452,"Baby Care","Baby Wipes",169.88,169.88,Apr-23,1,0
+82484,"Baby Care","Baby Food",914.88,914.88,Apr-23,1,0
+57405,"Baby Care","Baby Food",607.67,607.67,Apr-23,1,0
+951463,"Pet Care","Pet Treats",787.4,787.4,Apr-23,2,0
+243235,"Pet Care","Cat Food",109.03,109.03,Apr-23,2,0
+256783,"Pet Care","Pet Treats",906.54,906.54,Apr-23,1,0
+525531,"Pet Care","Dog Food",831.1,831.1,Apr-23,1,0
+642612,"Pet Care","Pet Treats",517.03,517.03,Apr-23,1,0
+557908,Pharmacy,Vitamins,942.37,942.37,Apr-23,1,0
+799459,Pharmacy,Vitamins,852.02,852.02,Apr-23,2,0
+851978,Pharmacy,Vitamins,715.72,715.72,Apr-23,1,0
+114414,Pharmacy,Vitamins,832.06,832.06,Apr-23,1,0
+153019,"Fruits & Vegetables",Onions,947.95,947.95,Apr-23,2,0
+222892,"Fruits & Vegetables",Tomatoes,869.22,869.22,Apr-23,1,0
+516376,"Fruits & Vegetables",Onions,877.43,877.43,Apr-23,2,0
+39154,"Fruits & Vegetables",Mangoes,946.86,946.86,Apr-23,2,0
+284460,"Fruits & Vegetables",Potatoes,505.95,505.95,Apr-23,1,0
+146840,"Dairy & Breakfast",Bread,786.85,786.85,Apr-23,1,0
+136533,"Dairy & Breakfast",Eggs,826.21,826.21,Apr-23,2,0
+382511,"Dairy & Breakfast",Butter,702.54,702.54,Apr-23,1,0
+15314,"Dairy & Breakfast",Cheese,578.85,578.85,Apr-23,1,0
+880510,"Dairy & Breakfast",Bread,951.43,951.43,Apr-23,1,0
+891833,"Dairy & Breakfast",Curd,493.19,493.19,Apr-23,1,0
+500739,"Dairy & Breakfast",Bread,359.98,359.98,Apr-23,2,0
+833557,"Dairy & Breakfast",Cereal,422.87,422.87,Apr-23,2,0
+734789,"Snacks & Munchies",Popcorn,395.82,395.82,Apr-23,2,0
+361361,"Snacks & Munchies",Biscuits,826.21,826.21,Apr-23,1,0
+658389,"Snacks & Munchies",Popcorn,152.55,152.55,Apr-23,1,0
+952168,"Snacks & Munchies",Popcorn,236.95,236.95,Apr-23,1,0
+587420,"Snacks & Munchies",Cookies,357.42,357.42,Apr-23,1,0
+991434,"Snacks & Munchies",Cookies,237.62,237.62,Apr-23,2,0
+540618,"Snacks & Munchies",Popcorn,317.05,317.05,Apr-23,1,0
+681063,"Cold Drinks & Juices","Mango Drink",321.28,321.28,Apr-23,2,0
+118820,"Cold Drinks & Juices","Iced Tea",12.32,12.32,Apr-23,2,0
+667163,"Cold Drinks & Juices","Orange Juice",441.2,441.2,Apr-23,1,0
+712307,"Cold Drinks & Juices","Orange Juice",264.89,264.89,Apr-23,2,0
+962054,"Cold Drinks & Juices","Orange Juice",16.86,16.86,Apr-23,2,0
+378676,"Cold Drinks & Juices","Orange Juice",881.42,881.42,Apr-23,2,0
+969851,"Instant & Frozen Food","Frozen Vegetables",340.66,340.66,Apr-23,1,0
+470449,"Instant & Frozen Food","Frozen Biryani",827.77,827.77,Apr-23,1,0
+652118,"Instant & Frozen Food","Frozen Biryani",22.04,22.04,Apr-23,1,0
+487931,"Grocery & Staples",Sugar,709.08,709.08,Apr-23,1,0
+120532,"Grocery & Staples","Wheat Flour",697.53,697.53,Apr-23,2,0
+435929,"Household Care","Toilet Cleaner",856.89,856.89,Apr-23,2,0
+552496,"Household Care","Dish Soap",508,508,Apr-23,1,0
+455755,"Household Care",Detergent,44.09,44.09,Apr-23,1,0
+604184,"Household Care","Toilet Cleaner",397.55,397.55,Apr-23,1,0
+697683,"Household Care","Toilet Cleaner",123.74,123.74,Apr-23,1,0
+894539,"Household Care","Dish Soap",445.48,445.48,Apr-23,2,0
+709916,"Household Care",Detergent,33.76,33.76,Apr-23,2,0
+112390,"Personal Care",Toothpaste,877.98,877.98,Apr-23,1,0
+490939,"Personal Care",Lotion,80.25,80.25,Apr-23,2,0
+799688,"Personal Care",Lotion,309.62,309.62,Apr-23,2,0
+684939,"Personal Care",Lotion,727.95,727.95,Apr-23,1,0
+51036,"Baby Care","Baby Food",931.61,931.61,Apr-23,1,0
+953175,"Baby Care","Baby Food",225.21,225.21,Apr-23,1,0
+942001,"Pet Care","Cat Food",671.55,671.55,Apr-23,1,0
+120385,"Pet Care","Pet Treats",597.91,597.91,Apr-23,2,0
+661577,"Pet Care","Cat Food",720.95,720.95,Apr-23,1,0
+243235,"Pet Care","Cat Food",109.03,109.03,Apr-23,1,0
+186168,"Pet Care","Dog Food",878.8,878.8,Apr-23,1,0
+537274,"Pet Care","Pet Treats",702.71,702.71,Apr-23,1,0
+726958,"Pet Care","Cat Food",887.48,887.48,Apr-23,1,0
+425341,"Pet Care","Pet Treats",486.28,486.28,Apr-23,2,0
+677169,Pharmacy,"Cough Syrup",261.03,261.03,Apr-23,1,0
+557908,Pharmacy,Vitamins,942.37,942.37,Apr-23,2,0
+587645,Pharmacy,Vitamins,801.81,801.81,Apr-23,2,0
+992178,Pharmacy,"Pain Reliever",632.43,632.43,Apr-23,1,0
+56589,Pharmacy,Vitamins,517.77,517.77,Apr-23,1,0
+26060,Pharmacy,Vitamins,342.94,342.94,Apr-23,1,0
+33797,Pharmacy,"Pain Reliever",888.12,888.12,Apr-23,2,0
+237083,Pharmacy,"Cough Syrup",577.13,577.13,Apr-23,1,0
+673058,Pharmacy,"Cough Syrup",765.76,765.76,Apr-23,1,0
+114414,Pharmacy,Vitamins,832.06,832.06,Apr-23,1,0
+669378,"Fruits & Vegetables",Potatoes,212.14,212.14,Apr-23,1,0
+196719,"Fruits & Vegetables",Bananas,217.5,217.5,Apr-23,2,0
+478531,"Fruits & Vegetables",Carrots,825.46,825.46,Apr-23,1,0
+818990,"Fruits & Vegetables",Tomatoes,163.55,163.55,Apr-23,1,0
+654297,"Fruits & Vegetables",Potatoes,13.25,13.25,Apr-23,1,0
+397973,"Fruits & Vegetables",Bananas,728.73,728.73,Apr-23,2,0
+376447,"Dairy & Breakfast",Butter,724.84,724.84,Apr-23,1,0
+888807,"Dairy & Breakfast",Bread,230.58,230.58,Apr-23,1,0
+714999,"Dairy & Breakfast",Bread,882.51,882.51,Apr-23,1,0
+690565,"Snacks & Munchies",Cookies,951.27,951.27,Apr-23,1,0
+961614,"Snacks & Munchies",Chocolates,227.22,227.22,Apr-23,1,0
+654623,"Snacks & Munchies",Chips,422.14,422.14,Apr-23,1,0
+313754,"Snacks & Munchies",Biscuits,136.6,136.6,Apr-23,1,0
+832348,"Snacks & Munchies",Biscuits,831.43,831.43,Apr-23,2,0
+540618,"Snacks & Munchies",Popcorn,317.05,317.05,Apr-23,2,0
+60619,"Cold Drinks & Juices","Iced Tea",726.41,726.41,Apr-23,1,0
+107548,"Cold Drinks & Juices",Cola,891.6,891.6,Apr-23,2,0
+228286,"Cold Drinks & Juices",Cola,179.08,179.08,Apr-23,1,0
+561860,"Cold Drinks & Juices","Orange Juice",874.78,874.78,Apr-23,2,0
+712003,"Cold Drinks & Juices",Cola,671.68,671.68,Apr-23,2,0
+890232,"Cold Drinks & Juices","Mango Drink",432,432,Apr-23,1,0
+470449,"Instant & Frozen Food","Frozen Biryani",827.77,827.77,Apr-23,1,0
+606256,"Instant & Frozen Food","Frozen Biryani",369.28,369.28,Apr-23,1,0
+611575,"Instant & Frozen Food","Frozen Pizza",482.06,482.06,Apr-23,1,0
+692985,"Grocery & Staples",Pulses,197.39,197.39,Apr-23,1,0
+901144,"Grocery & Staples",Sugar,340.36,340.36,Apr-23,1,0
+53833,"Grocery & Staples",Rice,134.69,134.69,Apr-23,1,0
+120532,"Grocery & Staples","Wheat Flour",697.53,697.53,Apr-23,1,0
+945635,"Grocery & Staples",Pulses,778.9,778.9,Apr-23,1,0
+760684,"Grocery & Staples",Rice,71.6,71.6,Apr-23,1,0
+354409,"Grocery & Staples",Pulses,325.08,325.08,Apr-23,1,0
+131136,"Grocery & Staples",Salt,37.8,37.8,Apr-23,1,0
+317242,"Grocery & Staples",Pulses,198.15,198.15,Apr-23,2,0
+461804,"Grocery & Staples",Sugar,310.69,310.69,Apr-23,2,0
+94225,"Household Care","Toilet Cleaner",77.11,77.11,Apr-23,2,0
+18035,"Household Care","Dish Soap",968.94,968.94,Apr-23,1,0
+552496,"Household Care","Dish Soap",508,508,Apr-23,2,0
+91670,"Household Care","Dish Soap",439.24,439.24,Apr-23,2,0
+677542,"Household Care","Toilet Cleaner",212.61,212.61,Apr-23,1,0
+709916,"Household Care",Detergent,33.76,33.76,Apr-23,1,0
+365133,"Household Care","Dish Soap",915.45,915.45,Apr-23,2,0
+863930,"Personal Care",Shampoo,242.57,242.57,Apr-23,1,0
+473647,"Personal Care",Toothpaste,43.05,43.05,Apr-23,2,0
+753354,"Personal Care",Shampoo,423.56,423.56,Apr-23,1,0
+672059,"Personal Care",Toothpaste,672.73,672.73,Apr-23,1,0
+799688,"Personal Care",Lotion,309.62,309.62,Apr-23,1,0
+859361,"Personal Care",Shampoo,432.39,432.39,Apr-23,1,0
+140154,"Personal Care",Shampoo,171.2,171.2,Apr-23,1,0
+366066,"Personal Care",Soap,918.58,918.58,Apr-23,2,0
+820973,"Baby Care","Baby Wipes",114.52,114.52,Apr-23,1,0
+432617,"Baby Care","Baby Wipes",863.18,863.18,Apr-23,1,0
+951463,"Pet Care","Pet Treats",787.4,787.4,Apr-23,1,0
+256783,"Pet Care","Pet Treats",906.54,906.54,Apr-23,2,0
+525531,"Pet Care","Dog Food",831.1,831.1,Apr-23,1,0
+726958,"Pet Care","Cat Food",887.48,887.48,Apr-23,2,0
+566052,Pharmacy,"Pain Reliever",87.3,87.3,Apr-23,2,0
+264803,Pharmacy,Vitamins,995.98,995.98,Apr-23,1,0
+56589,Pharmacy,Vitamins,517.77,517.77,Apr-23,2,0
+33797,Pharmacy,"Pain Reliever",888.12,888.12,Apr-23,2,0
+679284,Pharmacy,"Cough Syrup",877.89,877.89,Apr-23,1,0
+240179,Pharmacy,"Cough Syrup",90.56,90.56,Apr-23,1,0
+673058,Pharmacy,"Cough Syrup",765.76,765.76,Apr-23,1,0
+669378,"Fruits & Vegetables",Potatoes,212.14,212.14,Apr-23,2,0
+39154,"Fruits & Vegetables",Mangoes,946.86,946.86,Apr-23,1,0
+34186,"Fruits & Vegetables",Mangoes,925.65,925.65,Apr-23,1,0
+473929,"Fruits & Vegetables",Carrots,440.19,440.19,Apr-23,2,0
+654297,"Fruits & Vegetables",Potatoes,13.25,13.25,Apr-23,1,0
+818522,"Dairy & Breakfast",Cheese,96.09,96.09,Apr-23,1,0
